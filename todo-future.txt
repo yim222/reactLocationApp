@@ -1,0 +1,12 @@
+Todo in future. :
+- Change where you can, at Locations, and Categories the use of local get data function 
+to the new ready getData services. 
+- Minimize the code where you can.
+- Fix the problem at "view" action that sometime (like when page uploaded or after create new) drop exception. 
+- Header perform twice from some reason .
+- Clean the warnings of the console ( href warning  and others) . 
+- Change to more right coding. static methods. Especially the services. 
+- And decouple where it's possible. 
+- Switch the style and the text of the button of switching filter group. 
+- Make style responsive and better. 
+
