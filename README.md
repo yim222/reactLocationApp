@@ -4,10 +4,11 @@ Hi!
 
 This is draft CRUD app in react. The data being stored on the localstorage of the browser
 
-For startup – download the folder, unzip it, and run “npm start” from the CMD of the root folder. It will be running in http://localhost:3006/
+For startup – download the folder, unzip it, install npm and react in the root folder,  and run “npm start” from the CMD of the root folder. It will be running in http://localhost:3006/
 
 You can see the todo file either.
 
+If U need help feel free to contact me - yimprogramming@gmail.com
 
 
 
